@@ -1,0 +1,8 @@
+node_modules
+.next
+*.log
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!data/contact_messages.json
